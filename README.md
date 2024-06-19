@@ -1,27 +1,38 @@
-Car Price Prediction for Market Entry in Nigeria
-Business Scenario
-Company Overview:
-Globex Motors, an international automobile manufacturer, is planning to expand its business into Nigeria. The company specializes in manufacturing a range of vehicles, from affordable compact cars to high-end luxury sedans. To ensure a successful entry into the Nigerian market, Globex Motors needs to understand the local car market dynamics, including the pricing trends, popular car models, and customer preferences.
+**Car Price Prediction for Market Entry in Nigeria**
 
-Business Problem:
-Globex Motors is seeking a comprehensive analysis of the Nigerian car market to make data-driven decisions about their market entry strategy. Specifically, they need to predict car prices based on various features such as make, model, year of manufacture, mileage, engine size, fuel type, and condition. Accurate price predictions will help Globex Motors in:
+**Business Scenario**
 
-Pricing Strategy:
+**Company Overview**:
+
+Globex Motors, an international automobile manufacturer, is planning to expand its business into Nigeria.
+The company specializes in manufacturing a range of vehicles, from affordable compact cars to high-end luxury sedans.
+To ensure a successful entry into the Nigerian market, Globex Motors needs to understand the local car market dynamics, including the pricing trends, popular car models, and customer preferences.
+
+**Business Problem:**
+
+Globex Motors is seeking a comprehensive analysis of the Nigerian car market to make data-driven decisions about their market entry strategy. 
+Specifically, they need to predict car prices based on various features such as make, model, year of manufacture, mileage, engine size, fuel type, and condition.
+Accurate price predictions will help Globex Motors in:
+
+**Pricing Strategy:**
 
 Determining competitive pricing for their car models to attract Nigerian customers.
 Understanding the price sensitivity and purchasing power of potential customers.
-Inventory Management:
+
+**Inventory Management:**
 
 Identifying the most popular car models and features in Nigeria to optimize inventory.
 Making informed decisions on the types and quantities of vehicles to import.
-Marketing and Sales Strategy:
+
+**Marketing and Sales Strategy:**
 
 Tailoring marketing campaigns to highlight features that are highly valued in the Nigerian market.
 Setting realistic sales targets based on market demand and price trends.
-Objective:
+
+**Objective:**
 Develop a predictive model that can estimate car prices in Nigeria based on a set of features. The model should be trained on data scraped from a popular Nigerian car listing website, Cars45. The insights derived from this model will help Globex Motors in formulating a competitive and profitable market entry strategy.
 
-Data Requirements:
+**Data Requirements:**
 To achieve this objective, the following data points are required from the car listings:
 
 Make

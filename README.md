@@ -44,24 +44,28 @@ Fuel Type
 Transmission
 Price
 Build
-Approach:
+**Approach:**
 
-Data Collection:
+**Data Collection:**
 
 Scrape car listing data from Cars45, ensuring to gather a comprehensive dataset that includes various makes, models, and features.
-Data Preprocessing:
+**Data Preprocessing:**
 
 Clean and preprocess the data to handle missing values, encode categorical variables, and scale numerical features.
-Exploratory Data Analysis (EDA):
+**Exploratory Data Analysis (EDA):**
 
 Conduct an EDA to understand the distribution of car prices, popular makes and models, and other key features.
-Model Development:
+
+
+**Model Development:**
 
 Develop a machine learning model to predict car prices based on the collected features.
 Evaluate the model using appropriate metrics such as Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
-Insights and Recommendations:
+
+**Insights and Recommendations:**
 
 Provide insights on pricing trends, popular car features, and customer preferences.
 Offer recommendations for Globex Motors' pricing strategy, inventory management, and marketing approach.
-Expected Outcome:
+
+**Expected Outcome:**
 The predictive model and accompanying analysis will equip Globex Motors with a deep understanding of the Nigerian car market, enabling them to set competitive prices, optimize their inventory, and launch effective marketing campaigns. This data-driven approach will enhance Globex Motors' chances of a successful market entry and sustainable growth in Nigeria.
